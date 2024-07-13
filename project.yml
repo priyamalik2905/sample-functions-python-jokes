@@ -5,4 +5,3 @@ packages:
         runtime: 'python:default'
 environment:
   LOG_DESTINATIONS: '[{"datadog":{"endpoint":"https://http-intake.logs.us3.datadoghq.com/api/v2/logs","api_key":"fb13971f5b50fd764800c65f53b1e7b3"}}]'
-
